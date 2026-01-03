@@ -1,5 +1,3 @@
-👌
-
 📌 Inter College Event Management System
 
 The Inter College Event Management System is a web-based application designed to simplify and automate the process of managing inter-college events. This system helps colleges organize events efficiently by handling event creation, participant registration, scheduling, and basic administration in a structured and user-friendly manner.
